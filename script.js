@@ -169,4 +169,4 @@ audio.addEventListener("ended", nextSong);
 // Time of song
 audio.addEventListener("timeupdate", DurTime);
 
-//Any other functions if needed
+//Placeholder for future functions if any
