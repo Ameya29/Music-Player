@@ -12,7 +12,7 @@ const currTime = document.querySelector("#currTime");
 const durTime = document.querySelector("#durTime");
 
 // Song titles
-const songs = ["ApnaBanaLe", "DevaDeva", "Kesariya", "RaataanLambiyan"];
+const songs = ["Apna Bana Le", "Deva Deva", "Kesariya", "Raataan Lambiyan"];
 
 // Keep track of song
 let songIndex = 2;
