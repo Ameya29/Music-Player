@@ -47,7 +47,7 @@ body {
 
 .img-container img{
     border-radius: 50%;
-    object-fit: cover;
+    object-fit: fill;
     height: 110px;
     width: inherit;
     position: absolute;
