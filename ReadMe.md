@@ -6,3 +6,5 @@ A music player with preloaded songs and decent UI.
 ```
 Simply download or clone the repository and go live..
 ```
+
+## Basic Features
