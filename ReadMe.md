@@ -8,3 +8,4 @@ git clone https://github.com/Ameya29/Music-Player.git
 ```
 
 ## Basic Features
+- Friendly UI
